@@ -16,7 +16,7 @@ The Canadian Association for Information Science / l’Association canadienne de
 # Call for Papers
 TBD
 
-
+# Contact 
 For further information, please contact the Website Admin:
 <br><br>
 Alex Mayhew, PhD Candidate<br>
