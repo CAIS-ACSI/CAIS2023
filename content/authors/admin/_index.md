@@ -13,10 +13,10 @@ superuser: false
 The Canadian Association for Information Science / l’Association canadienne des sciences de l’information (CAIS/ACSI) invites submissions for its Annual Conference, June 7 – 10, 2023. As in 2020, 2021, and 2022, the 2023 conference will be <b>free and open to all, online.
 
 
-# Call for Papers
+## Call for Papers
 TBD
 
-# Contact 
+## Contact 
 For further information, please contact the Website Admin:
 <br><br>
 Alex Mayhew, PhD Candidate<br>
