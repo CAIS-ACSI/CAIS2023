@@ -37,11 +37,11 @@ Additionally, we welcome any other reports on completed projects on any topic of
 **Types of proposals**
 CAIS/ACSI welcomes proposals reporting on empirical, theoretical, and practice-based research. Proposals may be submitted in English or French. All proposals will undergo double-blind peer review, and should be scrubbed of personally identifying information upon initial submission.
 
-<b>Papers:</b> 20-minute oral presentations of completed or well-developed projects on topics suitable for publication in scholarly journals. Proposals reporting on completed or ongoing research will be given preference. Diverse and innovative perspectives (theoretical and applied) and methodologies are welcome. Proposals should be in the form of an extended abstract (approximately 1000-1500 words excluding references). Please use this template.
+<b>Papers:</b> 20-minute oral presentations of completed or well-developed projects on topics suitable for publication in scholarly journals. Proposals reporting on completed or ongoing research will be given preference. Diverse and innovative perspectives (theoretical and applied) and methodologies are welcome. Proposals should be in the form of an extended abstract (approximately 1000-1500 words excluding references). Please use this [template](https://cais-acsi.ca/wp-content/uploads/2021/10/CAIS-ACSI-2022-Abstract-Template.docx).
 
-<b>Lightning Talks:</b> 5-minute oral presentations covering a single element of a work in progress, or a new idea. Lightning talk proposals aiming to cover an entire research project will not be accepted. The purpose of a lightning talk is to start a discussion, receive input on an idea, or find collaborators. Proposals should be in the form of a 250-word abstract (excluding references). Please use this template.
+<b>Lightning Talks:</b> 5-minute oral presentations covering a single element of a work in progress, or a new idea. Lightning talk proposals aiming to cover an entire research project will not be accepted. The purpose of a lightning talk is to start a discussion, receive input on an idea, or find collaborators. Proposals should be in the form of a 250-word abstract (excluding references). Please use this [template](https://cais-acsi.ca/wp-content/uploads/2021/10/CAIS-ACSI-2022-Abstract-Template.docx).
 
-<b>Panels:</b> 90-minute oral presentations from three or more authors on emerging domains, trends, or contrasting viewpoints, including time for questions or discussion. Panels are an opportunity to engage in discussion of shared concerns, including those not available in completed research or yet adequately recognized. Proposals should not be simply a set of related paper presentations; we encourage proposals that offer creative and unique opportunities for engagement and discussion with the audience as part of the panel session. We recommend three to five panelists plus a moderator; there will be an opportunity to modify the list of panelists after acceptance. Proposals should be in the form of an extended abstract (approximately 1000-1500 words excluding references), that identifies the topic to be discussed, provides an overview of the structure of the panel, and includes relevant qualifications and contributions of each participating panelist. Please use this template.
+<b>Panels:</b> 90-minute oral presentations from three or more authors on emerging domains, trends, or contrasting viewpoints, including time for questions or discussion. Panels are an opportunity to engage in discussion of shared concerns, including those not available in completed research or yet adequately recognized. Proposals should not be simply a set of related paper presentations; we encourage proposals that offer creative and unique opportunities for engagement and discussion with the audience as part of the panel session. We recommend three to five panelists plus a moderator; there will be an opportunity to modify the list of panelists after acceptance. Proposals should be in the form of an extended abstract (approximately 1000-1500 words excluding references), that identifies the topic to be discussed, provides an overview of the structure of the panel, and includes relevant qualifications and contributions of each participating panelist. Please use this [template](https://cais-acsi.ca/wp-content/uploads/2021/10/CAIS-ACSI-2022-Abstract-Template.docx).
 
 <b>Awards: Student-to-CAIS/ACSI and Best Paper by a Practitioner:</b> Paper proposals by graduate students and practitioners will be considered for these awards. The Student-to-CAIS/ACSI award includes a monetary prize. Both awardees will have the opportunity to publish the full manuscript in the Canadian Journal of Information and Library Science / La Revue canadienne des sciences de l’information et de bibliothéconomie. In order to be considered for these awards, please indicate if you are a student or practitioner when submitting your proposal. Winners will be selected based on their extended abstracts. Details of the award, including previous winners, can be found at the CAIS/ACSI website at www.cais-acsi.ca.
 
@@ -51,24 +51,24 @@ Proposals will be evaluated on theory/methodology, clarity, impact/originality, 
 
 Please be prepared to present informally on an aspect of your research for 5-10 minutes, which will be followed by discussion. More details will be provided upon acceptance.
 
-To participate in the Forum, please fill out the following submission form no later than May 15, 2023.
+To participate in the Forum, please fill out the following [submission form](https://forms.gle/Bw5kHgvQK4dTPTF46) no later than May 15, 2023.
 
 <b>The submission deadline for all proposals is January 31, 2023, midnight Pacific Time.</b>
 
-Authors will be notified by March 27, 2023. Final versions must be submitted no later than May 15, 2023, and will then be published on the conference website and in the conference proceedings. Authors are also encouraged to submit full papers to CAIS’s diamond open access journal (no Article Processing Charges): Canadian Journal of Information and Library Science / La Revue canadienne des sciences de l’information et de bibliothéconomie.
+Authors will be notified by March 27, 2023. Final versions must be submitted no later than May 15, 2023, and will then be published on the conference website and in the conference proceedings. Authors are also encouraged to submit full papers to CAIS’s diamond open access journal (no Article Processing Charges): [Canadian Journal of Information and Library Science / La Revue canadienne des sciences de l’information et de bibliothéconomie](https://ojs.lib.uwo.ca/index.php/cjils).
 
 
 ## Contact 
 For further information, please contact the CAIS/ACSI 2023 Conference Co-Chairs:
 
 Philips Ayeni, PhD Candidate
-McGill University
-philips.ayeni@mail.mcgill.ca
+</br>McGill University
+</br>philips.ayeni@mail.mcgill.ca
 
 Roger Chabot, PhD
-Western University
-rchabot2@uwo.ca
+</br>Western University
+</br>rchabot2@uwo.ca
 
 Stacy Allison-Cassin, PhD
-Dalhousie University
-stacy.allison@dal.ca 
+</br>Dalhousie University
+</br>stacy.allison@dal.ca 
