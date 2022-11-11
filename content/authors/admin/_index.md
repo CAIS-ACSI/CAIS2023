@@ -10,10 +10,10 @@ superuser: false
 **Imagining Information**
 
 51st Annual Conference of the Canadian Association for Information Science /
-l’Association canadienne des sciences de l’information (CAIS/ACSI)
-June 6-9, 2023
+</br>l’Association canadienne des sciences de l’information (CAIS/ACSI)
+</br>June 6-9, 2023
 
-The Canadian Association for Information Science / l’Association canadienne des sciences de l’information (CAIS/ACSI) invites submissions for its 51th Annual Conference, June 6-9, 2023. For the fourth year in a row, <b>the conference will be free and open to all, online.</b> 
+</br>The Canadian Association for Information Science / l’Association canadienne des sciences de l’information (CAIS/ACSI) invites submissions for its 51th Annual Conference, June 6-9, 2023. For the fourth year in a row, <b>the conference will be free and open to all, online.</b> 
 
 We meet and structure the world through Imagination. The act of imagining enables inner and outer transformation. It assists in the construction of ourselves, our societies, and even our reality, it helps us to envision and to realize what is possible but it also limits. Collective imagining figures into forming hopes and strategies for the future, but also constructs the past. Imagination can be speculative, but imagination coupled with action can also be resistant and a powerful method toward moving toward liberation. Imagination has a strong connection to imagining, whether imagining new theoretical pathways, reflecting on the past, constructing or utilizing imagining as methodology. Imagination, while sometimes devalued, is a creative and resourceful force.
 
