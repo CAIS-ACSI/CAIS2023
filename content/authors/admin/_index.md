@@ -32,9 +32,11 @@ Submissions may cover, but are not limited to, the following:
 * Virtual reality, technologies, and information spaces
 * Imagined communities (Nations, Readers, Lovers)
 * Dreaming as information experience
+
 Additionally, we welcome any other reports on completed projects on any topic of relevance to the LIS field. 
 
 **Types of proposals**
+
 CAIS/ACSI welcomes proposals reporting on empirical, theoretical, and practice-based research. Proposals may be submitted in English or French. All proposals will undergo double-blind peer review, and should be scrubbed of personally identifying information upon initial submission.
 
 <b>Papers:</b> 20-minute oral presentations of completed or well-developed projects on topics suitable for publication in scholarly journals. Proposals reporting on completed or ongoing research will be given preference. Diverse and innovative perspectives (theoretical and applied) and methodologies are welcome. Proposals should be in the form of an extended abstract (approximately 1000-1500 words excluding references). Please use this [template](https://cais-acsi.ca/wp-content/uploads/2021/10/CAIS-ACSI-2022-Abstract-Template.docx).
