@@ -55,7 +55,8 @@ Please be prepared to present informally on an aspect of your research for 5-10 
 
 To participate in the Forum, please fill out the following [submission form](https://forms.gle/Bw5kHgvQK4dTPTF46) no later than May 15, 2023.
 
-<b>The submission deadline for all proposals is January 31, 2023, midnight Pacific Time.</b>
+*EXTENDED*
+<b>The submission deadline for all proposals is <s>January 31, 2023, midnight Pacific Time</s> February 10, 2023, midnight Pacific Time.</b>
 
 Authors will be notified by March 27, 2023. Final versions must be submitted no later than May 15, 2023, and will then be published on the conference website and in the conference proceedings. Authors are also encouraged to submit full papers to CAIS’s diamond open access journal (no Article Processing Charges): [Canadian Journal of Information and Library Science / La Revue canadienne des sciences de l’information et de bibliothéconomie](https://ojs.lib.uwo.ca/index.php/cjils).
 
