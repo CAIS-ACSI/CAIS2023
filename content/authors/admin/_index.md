@@ -151,42 +151,42 @@ For the 51st annual conference of the Canadian Association for Information Scien
   
   <tr>
   <td rowspan=4>Information Behaviour</td>
-    <td>2:30pm - 3:00pm</td>
+    <td>4:00pm - 4:30pm</td>
     <td><strong><a href="https://www.cais2023.ca/talk/13.Cheng/">“I’m Bored, and I Want Something New!”: Affective Information Acquisition in Everyday Culinary Practices</a></strong><br>
         <i>Siyao Cheng, Lo Lee, Melissa Ocepek and Merin Oleschuk</i>
   </td>
     <td rowspan=4>Libraries & Society</td>
-    <td>2:30pm - 3:00pm</td>
+    <td>4:00pm - 4:30pm</td>
     <td><strong><a href="https://www.cais2023.ca/talk/13.Dalmer/">Reimagining “palaces for the people”: A critical review of public libraries’ engagement with the asocial society</a></strong><br>
         <i>Nicole Dalmer, Paulette Rothbauer, Pam McKenzie, Kevin Oswald, Ebenezer Martin-Yeboah and Anne Goulding</i>
   </td>
   </tr>
     <tr>  
-    <td>3:00pm - 3:30pm</td>
+    <td>4:30pm - 5:00pm</td>
     <td><strong><a href="https://www.cais2023.ca/talk/14.Willson/">Exploring how casualization complicates Canadian academics’ information practices</a></strong><br>
         <i>Rebekah Willson, Owen Stewart-Robertson, Heidi Julien and Lisa M. Given</i>
   </td>
-    <td>3:00pm - 3:30pm</td>
+    <td>4:30pm - 5:00pm</td>
     <td><strong><a href="https://www.cais2023.ca/talk/15.Bullard/">Community, context, and communication: Responses of Canadian libraries to difficult situations involving medical mis- or disinformation</a></strong><br>
         <i>Julia Bullard, Caroline Mniszak and Devon Greyson</i>
   </td>
   </tr>
     <tr>  
-    <td>3:00pm - 3:30pm</td>
+    <td>5:00pm - 5:30pm</td>
     <td><strong><a href="https://www.cais2023.ca/talk/16.X/">Video Data</a></strong><br>
         <i>TBA</i>
   </td>
-    <td>3:00pm - 3:30pm</td>
+    <td>5:00pm - 5:30pm</td>
     <td><strong><a href="https://www.cais2023.ca/talk/17.Moriarty/">Junk and Priceless China: A Chronology of Cataloging at the Museum of Anthropology</a></strong><br>
         <i>Peyton Moriarty and Hannah Turner</i>
   </td>
   </tr>  
     <tr>  
-    <td>3:00pm - 3:30pm</td>
+    <td>5:30pm - 6:00pm</td>
     <td><strong><a href="https://www.cais2023.ca/talk/18.OBrien/">Reimagining Library and Information Science Evaluation Frameworks for Relational Knowledge-Exchange Work</a></strong><br>
         <i>Heather O'Brien, Kristina McDavid and Jess Yao</i>
   </td>
-    <td>3:00pm - 3:30pm</td>
+    <td>5:30pm - 6:00pm</td>
     <td><strong><a href="https://www.cais2023.ca/talk/19.X/">Dog and Book</a></strong><br>
         <i>TBA</i>
   </td>
