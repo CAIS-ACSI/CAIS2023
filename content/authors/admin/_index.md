@@ -211,6 +211,11 @@ For the 51st annual conference of the Canadian Association for Information Scien
   </tr>
 
 
+  <tr>
+    <td colspan=2>Break</td>
+    <td colspan=4>12:00pm - 12:30pm</td>
+  </tr>
+
 
   <tr>
     <td colspan=2 rowspan=3>Imagining and Social Justice</td>
@@ -225,7 +230,6 @@ For the 51st annual conference of the Canadian Association for Information Scien
         <i>Laverne Gray and Alex Shoshani</i>
   </tr>
   
-  
   <tr>
     <td colspan=2>1:30am - 2:00pm</td>
     <td colspan=2><strong><a href="https://www.cais2023.ca/talk/21.Gray/">IMAGINING A FAT FUTURE: PHYSICAL AND FIGURATIVE FITTING IN LIBRARIES</a></strong><br>
@@ -233,6 +237,10 @@ For the 51st annual conference of the Canadian Association for Information Scien
   </tr>
 
 
+  <tr>
+    <td colspan=2>Break</td>
+    <td colspan=4>2:00pm - 2:30pm</td>
+  </tr>
 
   <tr>
     <td colspan=2>Panel Session 3</td>
@@ -242,6 +250,10 @@ For the 51st annual conference of the Canadian Association for Information Scien
   </tr>
 
 
+  <tr>
+    <td colspan=2>Break</td>
+    <td colspan=4>4:00pm - 4:30pm</td>
+  </tr>
 
   <tr>
     <td colspan=2 rowspan=2>Education</td>
