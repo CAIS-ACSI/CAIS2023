@@ -202,6 +202,60 @@ For the 51st annual conference of the Canadian Association for Information Scien
     <th colspan=2>Presentation</th>
   </tr>
 
+
+  <tr>
+    <td colspan=2>Lightning Talks</td>
+    <td colspan=2>11:00am - 12:00pm</td>
+    <td colspan=2><strong><a href="https://www.cais2023.ca/talk/LT/">Lightning Talks</a></strong><br>
+        <i>Moderator: TBA</i>
+  </tr>
+
+
+
+  <tr>
+    <td colspan=2 rowspan=3>Imagining and Social Justice</td>
+    <td colspan=2>12:30am - 1:00pm</td>
+    <td colspan=2><strong><a href="https://www.cais2023.ca/talk/20.AllisonCassin/">The Respectful Terminologies Platform Project and Envisioning Indigenous Governance</a></strong><br>
+        <i>Stacy Allison-Cassin and Camille Callison</i>
+  </tr>
+    
+  <tr>
+    <td colspan=2>1:00am - 1:30pm</td>
+    <td colspan=2><strong><a href="https://www.cais2023.ca/talk/21.Gray/">(Re)Imagined Black Informational Past: Chicago’s New Negro Intercollegiate Club and the Wonder Books, 1927 & 1929</a></strong><br>
+        <i>Laverne Gray and Alex Shoshani</i>
+  </tr>
+  
+  
+  <tr>
+    <td colspan=2>1:30am - 2:00pm</td>
+    <td colspan=2><strong><a href="https://www.cais2023.ca/talk/21.Gray/">IMAGINING A FAT FUTURE: PHYSICAL AND FIGURATIVE FITTING IN LIBRARIES</a></strong><br>
+        <i>Roger Chabot and Heather Hill</i>
+  </tr>
+
+
+
+  <tr>
+    <td colspan=2>Panel Session 3</td>
+    <td colspan=2>2:30pm - 4:00pm</td>
+    <td colspan=2>Reimagining LIS Education: Everything We Wanted to Say but Were Afraid To<br>
+        <i>Kim Thompson, Briony Birdi, Jenny Bossaller, Keren Dali, Anne Goulding, Sarah Beth Nelson and Emily Vardell</i>
+  </tr>
+
+
+
+  <tr>
+    <td colspan=2 rowspan=2>Education</td>
+    <td colspan=2>4:30am - 5:00pm</td>
+    <td colspan=2><strong><a href="https://www.cais2023.ca/talk/22.Rathi/">Doctoral Degree Programs and Soft Skills: Reflections by Faculty Members</a></strong><br>
+        <i>Dinesh Rathi, Jennifer Branch-Mueller and Crystal Stang</i>
+  </tr>
+    
+  <tr>
+    <td colspan=2>5:00am - 5:30pm</td>
+    <td colspan=2><strong><a href="https://www.cais2023.ca/talk/23.Dold/">THE ERASURE OF WOMEN FROM THE HISTORY OF WESTERN POLITICAL THEORY VIA SYLLABI CONSTRUCTION AND LIBRARY CLASSIFICATION</a></strong><br>
+        <i>Kayla Dold</i>
+  </tr>
+
   <tr>
     <td colspan=6 style="font-size:20px"><strong><font>Day 4 - Friday, June 9</font></strong></td>
   </tr>
@@ -213,9 +267,9 @@ For the 51st annual conference of the Canadian Association for Information Scien
   <tr>
     <td colspan=2>SRF</td>
     <td colspan=2>11:00am - 1:00pm</td>
-    <td colspan=2><a href="https://www.cais2023.ca/talk/SRF/">Student Research Forum</a><br>
-        <i>Open to all</i><br>
-      Moderators: Danica Facca
+    <td colspan=2><strong><a href="https://www.cais2023.ca/talk/SRF/">Student Research Forum</a></strong><br>
+        <i>Open to all<br>
+      Moderator: Danica Facca</i>
   </td>
   </tr>
     <tr>
