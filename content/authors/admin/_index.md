@@ -187,8 +187,8 @@ For the 51st annual conference of the Canadian Association for Information Scien
         <i>Heather O'Brien, Kristina McDavid and Jess Yao</i>
   </td>
     <td>5:30pm - 6:00pm</td>
-    <td><strong><a href="https://www.cais2023.ca/talk/19.X/">Dog and Book</a></strong><br>
-        <i>TBA</i>
+    <td><strong><a href="https://www.cais2023.ca/talk/19.Hill/">“May be a picture of a dog and a book": The inaccessiblity of public library social media feeds</a></strong><br>
+        <i>Heather Hill and Kevin Oswald</i>
   </td>
   </tr>
   
