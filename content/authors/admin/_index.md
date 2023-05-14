@@ -173,8 +173,8 @@ For the 51st annual conference of the Canadian Association for Information Scien
   </tr>
     <tr>  
     <td>5:00pm - 5:30pm</td>
-    <td><strong><a href="https://www.cais2023.ca/talk/16.X/">Video Data</a></strong><br>
-        <i>TBA</i>
+    <td><strong><a href="https://www.cais2023.ca/talk/16.OBrien/">Reimagining Library and Information Science Evaluation Frameworks for Relational Knowledge-Exchange Work</a></strong><br>
+        <i>Heather O'Brien, Kristina McDavid and Jess Yao</i>
   </td>
     <td>5:00pm - 5:30pm</td>
     <td><strong><a href="https://www.cais2023.ca/talk/17.Moriarty/">Junk and Priceless China: A Chronology of Cataloging at the Museum of Anthropology</a></strong><br>
@@ -183,11 +183,10 @@ For the 51st annual conference of the Canadian Association for Information Scien
   </tr>  
     <tr>  
     <td>5:30pm - 6:00pm</td>
-    <td><strong><a href="https://www.cais2023.ca/talk/18.OBrien/">Reimagining Library and Information Science Evaluation Frameworks for Relational Knowledge-Exchange Work</a></strong><br>
-        <i>Heather O'Brien, Kristina McDavid and Jess Yao</i>
+    <td>
   </td>
     <td>5:30pm - 6:00pm</td>
-    <td><strong><a href="https://www.cais2023.ca/talk/19.Hill/">“May be a picture of a dog and a book": The inaccessiblity of public library social media feeds</a></strong><br>
+    <td><strong><a href="https://www.cais2023.ca/talk/18.Hill/">“May be a picture of a dog and a book": The inaccessiblity of public library social media feeds</a></strong><br>
         <i>Heather Hill and Kevin Oswald</i>
   </td>
   </tr>
@@ -220,19 +219,19 @@ For the 51st annual conference of the Canadian Association for Information Scien
   <tr>
     <td colspan=2 rowspan=3>Imagining and Social Justice</td>
     <td colspan=2>12:30am - 1:00pm</td>
-    <td colspan=2><strong><a href="https://www.cais2023.ca/talk/20.AllisonCassin/">The Respectful Terminologies Platform Project and Envisioning Indigenous Governance</a></strong><br>
+    <td colspan=2><strong><a href="https://www.cais2023.ca/talk/19.AllisonCassin/">The Respectful Terminologies Platform Project and Envisioning Indigenous Governance</a></strong><br>
         <i>Stacy Allison-Cassin and Camille Callison</i>
   </tr>
     
   <tr>
     <td colspan=2>1:00am - 1:30pm</td>
-    <td colspan=2><strong><a href="https://www.cais2023.ca/talk/21.Gray/">(Re)Imagined Black Informational Past: Chicago’s New Negro Intercollegiate Club and the Wonder Books, 1927 & 1929</a></strong><br>
+    <td colspan=2><strong><a href="https://www.cais2023.ca/talk/20.Gray/">(Re)Imagined Black Informational Past: Chicago’s New Negro Intercollegiate Club and the Wonder Books, 1927 & 1929</a></strong><br>
         <i>Laverne Gray and Alex Shoshani</i>
   </tr>
   
   <tr>
     <td colspan=2>1:30am - 2:00pm</td>
-    <td colspan=2><strong><a href="https://www.cais2023.ca/talk/21.Gray/">IMAGINING A FAT FUTURE: PHYSICAL AND FIGURATIVE FITTING IN LIBRARIES</a></strong><br>
+    <td colspan=2><strong><a href="https://www.cais2023.ca/talk/21.Chabot/">IMAGINING A FAT FUTURE: PHYSICAL AND FIGURATIVE FITTING IN LIBRARIES</a></strong><br>
         <i>Roger Chabot and Heather Hill</i>
   </tr>
 
