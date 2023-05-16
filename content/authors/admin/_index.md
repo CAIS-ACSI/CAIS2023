@@ -96,7 +96,7 @@ For the 51st annual conference of the Canadian Association for Information Scien
   <tr>
   <td rowspan=2>Library Labour</td>
     <td>1:00pm - 1:30pm</td>
-    <td><strong><a href="https://www.cais2023.ca/talk/05.Oliphant/">EPISTEMIC INJUSTICE IN LIBRARY WORK: A CASE STUDY OF PATRON-PERPETRATED SEXUAL HARASSMENT</a></strong><br>
+    <td><strong><a href="https://www.cais2023.ca/talk/05.Oliphant/">Epistemic Injustice In Library Work: A Case Study Of Patron-perpetrated Sexual Harassment</a></strong><br>
         <i>Tami Oliphant</i>
   </td>
     <td rowspan=2>Open Access</td>
@@ -134,7 +134,7 @@ For the 51st annual conference of the Canadian Association for Information Scien
   </tr>
     <tr>  
     <td>3:00pm - 3:30pm</td>
-    <td><strong><a href="https://www.cais2023.ca/talk/11.Bowker/">IMAGINING A FULLER POTENTIAL FOR PLAIN LANGUAGE SUMMARIES: A CASE STUDY OF CANADIAN SCIENCE PUBLISHING</a></strong><br>
+    <td><strong><a href="https://www.cais2023.ca/talk/11.Bowker/">Imagining A Fuller Potential For Plain Language Summaries: A Case Study Of Canadian Science Publishing</a></strong><br>
         <i>Lynne Bowker</i>
   </td>
     <td>3:00pm - 3:30pm</td>
@@ -231,7 +231,7 @@ For the 51st annual conference of the Canadian Association for Information Scien
   
   <tr>
     <td colspan=2>1:30am - 2:00pm</td>
-    <td colspan=2><strong><a href="https://www.cais2023.ca/talk/21.Chabot/">IMAGINING A FAT FUTURE: PHYSICAL AND FIGURATIVE FITTING IN LIBRARIES</a></strong><br>
+    <td colspan=2><strong><a href="https://www.cais2023.ca/talk/21.Chabot/">Imagining A Fat Future: Physical And Figurative Fitting In Libraries</a></strong><br>
         <i>Roger Chabot and Heather Hill</i>
   </tr>
 
@@ -263,7 +263,7 @@ For the 51st annual conference of the Canadian Association for Information Scien
     
   <tr>
     <td colspan=2>5:00am - 5:30pm</td>
-    <td colspan=2><strong><a href="https://www.cais2023.ca/talk/23.Dold/">THE ERASURE OF WOMEN FROM THE HISTORY OF WESTERN POLITICAL THEORY VIA SYLLABI CONSTRUCTION AND LIBRARY CLASSIFICATION</a></strong><br>
+    <td colspan=2><strong><a href="https://www.cais2023.ca/talk/23.Dold/">The Erasure Of Women From The History Of Western Political Theory Via Syllabi Construction And Library Classification</a></strong><br>
         <i>Kayla Dold</i>
   </tr>
 
