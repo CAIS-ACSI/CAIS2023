@@ -157,27 +157,27 @@ For the 51st annual conference of the Canadian Association for Information Scien
   </td>
     <td rowspan=4>Libraries & Society</td>
     <td>4:00pm - 4:30pm</td>
-    <td><strong><a href="https://www.cais2023.ca/talk/13.Dalmer/">Reimagining “palaces for the people”: A critical review of public libraries’ engagement with the asocial society</a></strong><br>
+    <td><strong><a href="https://www.cais2023.ca/talk/14.Dalmer/">Reimagining “palaces for the people”: A critical review of public libraries’ engagement with the asocial society</a></strong><br>
         <i>Nicole Dalmer, Paulette Rothbauer, Pam McKenzie, Kevin Oswald, Ebenezer Martin-Yeboah and Anne Goulding</i>
   </td>
   </tr>
     <tr>  
     <td>4:30pm - 5:00pm</td>
-    <td><strong><a href="https://www.cais2023.ca/talk/14.Willson/">Exploring how casualization complicates Canadian academics’ information practices</a></strong><br>
+    <td><strong><a href="https://www.cais2023.ca/talk/15.Willson/">Exploring how casualization complicates Canadian academics’ information practices</a></strong><br>
         <i>Rebekah Willson, Owen Stewart-Robertson, Heidi Julien and Lisa M. Given</i>
   </td>
     <td>4:30pm - 5:00pm</td>
-    <td><strong><a href="https://www.cais2023.ca/talk/15.Bullard/">Community, context, and communication: Responses of Canadian libraries to difficult situations involving medical mis- or disinformation</a></strong><br>
+    <td><strong><a href="https://www.cais2023.ca/talk/16.Bullard/">Community, context, and communication: Responses of Canadian libraries to difficult situations involving medical mis- or disinformation</a></strong><br>
         <i>Julia Bullard, Caroline Mniszak and Devon Greyson</i>
   </td>
   </tr>
     <tr>  
     <td>5:00pm - 5:30pm</td>
-    <td><strong><a href="https://www.cais2023.ca/talk/16.OBrien/">Reimagining Library and Information Science Evaluation Frameworks for Relational Knowledge-Exchange Work</a></strong><br>
+    <td><strong><a href="https://www.cais2023.ca/talk/17.OBrien/">Reimagining Library and Information Science Evaluation Frameworks for Relational Knowledge-Exchange Work</a></strong><br>
         <i>Heather O'Brien, Kristina McDavid and Jess Yao</i>
   </td>
     <td>5:00pm - 5:30pm</td>
-    <td><strong><a href="https://www.cais2023.ca/talk/17.Moriarty/">Junk and Priceless China: A Chronology of Cataloging at the Museum of Anthropology</a></strong><br>
+    <td><strong><a href="https://www.cais2023.ca/talk/18.Moriarty/">Junk and Priceless China: A Chronology of Cataloging at the Museum of Anthropology</a></strong><br>
         <i>Peyton Moriarty and Hannah Turner</i>
   </td>
   </tr>  
@@ -186,7 +186,7 @@ For the 51st annual conference of the Canadian Association for Information Scien
     <td>
   </td>
     <td>5:30pm - 6:00pm</td>
-    <td><strong><a href="https://www.cais2023.ca/talk/18.Hill/">“May be a picture of a dog and a book": The inaccessiblity of public library social media feeds</a></strong><br>
+    <td><strong><a href="https://www.cais2023.ca/talk/19.Hill/">“May be a picture of a dog and a book": The inaccessiblity of public library social media feeds</a></strong><br>
         <i>Heather Hill and Kevin Oswald</i>
   </td>
   </tr>
@@ -219,19 +219,19 @@ For the 51st annual conference of the Canadian Association for Information Scien
   <tr>
     <td colspan=2 rowspan=3>Imagining and Social Justice</td>
     <td colspan=2>12:30am - 1:00pm</td>
-    <td colspan=2><strong><a href="https://www.cais2023.ca/talk/19.AllisonCassin/">The Respectful Terminologies Platform Project and Envisioning Indigenous Governance</a></strong><br>
+    <td colspan=2><strong><a href="https://www.cais2023.ca/talk/20.AllisonCassin/">The Respectful Terminologies Platform Project and Envisioning Indigenous Governance</a></strong><br>
         <i>Stacy Allison-Cassin and Camille Callison</i>
   </tr>
     
   <tr>
     <td colspan=2>1:00am - 1:30pm</td>
-    <td colspan=2><strong><a href="https://www.cais2023.ca/talk/20.Gray/">(Re)Imagined Black Informational Past: Chicago’s New Negro Intercollegiate Club and the Wonder Books, 1927 & 1929</a></strong><br>
+    <td colspan=2><strong><a href="https://www.cais2023.ca/talk/21.Gray/">(Re)Imagined Black Informational Past: Chicago’s New Negro Intercollegiate Club and the Wonder Books, 1927 & 1929</a></strong><br>
         <i>Laverne Gray and Alex Shoshani</i>
   </tr>
   
   <tr>
     <td colspan=2>1:30am - 2:00pm</td>
-    <td colspan=2><strong><a href="https://www.cais2023.ca/talk/21.Chabot/">Imagining A Fat Future: Physical And Figurative Fitting In Libraries</a></strong><br>
+    <td colspan=2><strong><a href="https://www.cais2023.ca/talk/22.Chabot/">Imagining A Fat Future: Physical And Figurative Fitting In Libraries</a></strong><br>
         <i>Roger Chabot and Heather Hill</i>
   </tr>
 
@@ -257,13 +257,13 @@ For the 51st annual conference of the Canadian Association for Information Scien
   <tr>
     <td colspan=2 rowspan=2>Education</td>
     <td colspan=2>4:30am - 5:00pm</td>
-    <td colspan=2><strong><a href="https://www.cais2023.ca/talk/22.Rathi/">Doctoral Degree Programs and Soft Skills: Reflections by Faculty Members</a></strong><br>
+    <td colspan=2><strong><a href="https://www.cais2023.ca/talk/23.Rathi/">Doctoral Degree Programs and Soft Skills: Reflections by Faculty Members</a></strong><br>
         <i>Dinesh Rathi, Jennifer Branch-Mueller and Crystal Stang</i>
   </tr>
     
   <tr>
     <td colspan=2>5:00am - 5:30pm</td>
-    <td colspan=2><strong><a href="https://www.cais2023.ca/talk/23.Dold/">The Erasure Of Women From The History Of Western Political Theory Via Syllabi Construction And Library Classification</a></strong><br>
+    <td colspan=2><strong><a href="https://www.cais2023.ca/talk/24.Dold/">The Erasure Of Women From The History Of Western Political Theory Via Syllabi Construction And Library Classification</a></strong><br>
         <i>Kayla Dold</i>
   </tr>
 
