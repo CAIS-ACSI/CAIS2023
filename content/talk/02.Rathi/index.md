@@ -3,7 +3,7 @@ title: "Use of Hashtags by Two Canadian Public Libraries: A Comparative Review"
 event: CAIS2023
 event_url: 
 
-location: "TBD"
+location: "Online, Zoom Link TBD"
 
 abstract: "This research presents a comparative review of hashtags in tweets posted by the two large Canadian public libraries, Edmonton Public Library (EPL) and Calgary Public Library (CPL), serving communities in the Province of Alberta. The descriptive statistics reveals variation between the two libraries in the number and types of hashtags. Both the libraries used a number of hashtags that had libraries’ names including initialism to contribute to their visibility, and local airport codes or the respective city names to establish their explicit and implicit associations with their geographical area of operations. The paper contributes to literature on the use of hashtags particularly in the context of Canadian public libraries. It will provide evidence-driven insights to other libraries on ways to create hashtags to strengthen their online presence, and digitally share information and promote events, programs and services."
 
