@@ -80,12 +80,12 @@ For the 51st annual conference of the Canadian Association for Information Scien
   <tr>
   <td>Panel Session 1</td>
     <td>11:00am - 12:30am</td>
-    <td>Welcome to Information Science</br>
+    <td><strong><a href="https://www.cais2023.ca/talk/Panel1/">Welcome to Information Science</a></strong></br>
     <i>Jenna Hartel, Vishma Bhattarai, Travis Wagner, Laverne Gray, Sandy Littletree, Valerie Nesset and Lin Wang</i>
     </td>
   <td>Panel Session 2</td>
     <td>11:00am - 12:30am</td>
-    <td>Climate Action</br>
+    <td><strong><a href="https://www.cais2023.ca/talk/Panel2/">Climate Action</a></strong></br>
     <i>Luanne Sinnamon, Lisa Nathan, Saguna Shankar, Mckelle Hansen and Diana Marshall</i>
     </td>
   </tr>
@@ -244,7 +244,7 @@ For the 51st annual conference of the Canadian Association for Information Scien
   <tr>
     <td colspan=2>Panel Session 3</td>
     <td colspan=2>2:30pm - 4:00pm</td>
-    <td colspan=2>Reimagining LIS Education: Everything We Wanted to Say but Were Afraid To<br>
+    <td colspan=2><strong><a href="https://www.cais2023.ca/talk/Panel3/">Reimagining LIS Education: Everything We Wanted to Say but Were Afraid To</a></strong><br>
         <i>Kim Thompson, Briony Birdi, Jenny Bossaller, Keren Dali, Anne Goulding, Sarah Beth Nelson and Emily Vardell</i>
   </tr>
 
