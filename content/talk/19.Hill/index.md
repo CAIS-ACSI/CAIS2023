@@ -1,5 +1,5 @@
 ---
-title: "“May be a picture of a dog and a book": The inaccessiblity of public library social media feeds"
+title: "“May be a picture of a dog and a book“: The inaccessiblity of public library social media feeds"
 event: CAIS2023
 event_url: 
 
@@ -15,7 +15,7 @@ all_day: false
 publishDate: "2023-01-01T00:00:00Z"
 
 authors:
- - Heather Hill  
+ - Heather Hill
  - Kevin Oswald
 
 featured: false
