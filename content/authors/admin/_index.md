@@ -202,10 +202,33 @@ For the 51st annual conference of the Canadian Association for Information Scien
 
 
   <tr>
-    <td colspan=2>Lightning Talks</td>
-    <td colspan=2>11:00am - 12:00pm</td>
-    <td colspan=2><strong><a href="https://www.cais2023.ca/talk/LT/">Lightning Talks</a></strong><br>
-        <i>Moderator: TBA</i>
+    <td colspan=2 rowspan=5>Lightning Talks<br>
+        <i>Moderator: TBA</i></td>
+    <td colspan=2 rowspan=5>11:00am - 12:00pm</td>
+    <td colspan=2><strong><a href="https://www.cais2023.ca/talk/LT1.Liu/">Designing the Presentation of Hyperlinks to Reduce Overload in Online Health Information</a></strong><br>
+        <i>Yifan Liu and Luanne Sinnamon</i>
+  </tr>
+
+  <tr>
+    <td colspan=2><strong><a href="https://www.cais2023.ca/talk/LT2.Davoudi/">Digital Afterlives: Imagining Effective Policies and Regulations for Digital Remains</a></strong><br>
+        <i>Nilou Davoudi</i>
+  </tr>
+
+
+  <tr>
+    <td colspan=2><strong><a href="https://www.cais2023.ca/talk/LT3.Yanaky/">Using immersive planning tools to reimagine virtual libraries</a></strong><br>
+        <i>Richard Yanaky and Catherine Guastavino</i>
+  </tr>
+
+  <tr>
+    <td colspan=2><strong><a href="https://www.cais2023.ca/talk/LT4.Agosto/">Matrixes for Data Collection in Information Research: Issues Related to Data Reduction and Display</a></strong><br>
+        <i>Denise Agosto and Roger Pereira Domingues</i>
+  </tr>
+
+
+  <tr>
+    <td colspan=2><strong><a href="https://www.cais2023.ca/talk/LT5.Renaud/">Cross Media Reader Advisory</a></strong><br>
+        <i>Brittany Renaud</i>
   </tr>
 
 
