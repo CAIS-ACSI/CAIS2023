@@ -15,7 +15,7 @@ all_day: false
 publishDate: "2023-01-01T00:00:00Z"
 
 authors:
- - Geoff Krause 
+ - Geoff Krause
  - Timothy Bowman
  - Domenic Rosati
  - Michael Smit
