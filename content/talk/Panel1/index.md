@@ -1,23 +1,27 @@
 ---
-title: "Back to the Future: Yesterday’s Lessons and Tomorrow’s Priorities in Library and Information Science Research"
-event: CAIS2022
+title: "Welcome to Information Science"
+event: CAIS2023
 event_url: 
 
-location: "[https://zoom.us/j/88016818664](https://us06web.zoom.us/j/88016818664?wd=bWlEMk1oZ3FyWTVFNXZISUh4dlZJdz09)"
+location: "Online, Zoom Link TBD"
 
-abstract: "OPENING PLENARY PANEL with Julia Bullard, Lynne Howarth & Ali Shiri. Back to the Future: Yesterday’s Lessons and Tomorrow’s Priorities in Library and Information Science Research. Moderator: Grant Campbell"
+abstract: "Inspired by CAIS’ conference theme of “Imagining Information,” the participants of this panel will enact the following scenario: At an orientation event for an information science program, a spokesperson gives incoming students a brief address on the theme, “Welcome to information science.” Six imaginative versions of that talk are offered here. Each disquisition is inspired by a luminary or paradigm, namely: S. R. Ranganathan, Elfreda Chatman, Marcia Bates, Chinese Information Science, Indigenous Ways of Knowing, and Queering Sociotechnical Systems. Everyone in attendance will have six opportunities to imagine information science at its best, that is, a wide-ranging and multi-perspective discipline."
 
-date: "2022-06-07T13:15:00Z"
-date_end: "2022-06-07T14:45:00Z"
+date: "2023-06-07T11:00:00Z"
+date_end: "2023-06-07T12:30:00Z"
 
 all_day: false
 
-publishDate: "2022-01-01T00:00:00Z"
+publishDate: "2023-01-01T00:00:00Z"
 
 authors:
- - Julia Bullard
- - Lynne Howarth
- - Ali Shir
+ - Jenna Hartel
+ - Vishma Bhattarai
+ - Travis Wagner
+ - Laverne Gray
+ - Sandy Littletree
+ - Valerie Nesset
+ - Lin Wang
 
 featured: false
 
@@ -26,4 +30,3 @@ links:
 math: true
 ---
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/D2PhwsksOjU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

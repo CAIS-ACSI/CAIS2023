@@ -1,23 +1,27 @@
 ---
-title: "Back to the Future: Yesterday’s Lessons and Tomorrow’s Priorities in Library and Information Science Research"
-event: CAIS2022
+title: "Reimagining LIS Education: Everything We Wanted to Say but Were Afraid To"
+event: CAIS2023
 event_url: 
 
-location: "[https://zoom.us/j/88016818664](https://us06web.zoom.us/j/88016818664?wd=bWlEMk1oZ3FyWTVFNXZISUh4dlZJdz09)"
+location: "Online, Zoom Link TBD"
 
-abstract: "OPENING PLENARY PANEL with Julia Bullard, Lynne Howarth & Ali Shiri. Back to the Future: Yesterday’s Lessons and Tomorrow’s Priorities in Library and Information Science Research. Moderator: Grant Campbell"
+abstract: "This panel includes six library and information science (LIS) academics who bring together international perspectives on pedagogy rooted in theoretical framings. The panellists will discuss topics meaningful to the instructor experience including social justice, teaching empathy in the LIS classroom, faculty/student research collaboration, student socialization to the graduate academy, and inclusion of faculty members with a disability."
 
-date: "2022-06-07T13:15:00Z"
-date_end: "2022-06-07T14:45:00Z"
+date: "2023-06-08T14:30:00Z"
+date_end: "2023-06-08T16:00:00Z"
 
 all_day: false
 
-publishDate: "2022-01-01T00:00:00Z"
+publishDate: "2023-01-01T00:00:00Z"
 
 authors:
- - Julia Bullard
- - Lynne Howarth
- - Ali Shir
+ - Kim Thompson
+ - Briony Birdi
+ - Jenny Bossaller
+ - Keren Dali
+ - Anne Goulding
+ - Sarah Beth Nelson
+ - Emily Vardell
 
 featured: false
 
@@ -26,4 +30,3 @@ links:
 math: true
 ---
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/D2PhwsksOjU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
