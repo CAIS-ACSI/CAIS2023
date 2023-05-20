@@ -15,7 +15,7 @@ all_day: false
 publishDate: "2023-01-01T00:00:00Z"
 
 authors:
- - Heather O'Brien 
+ - Heather O'Brien
  - Kristina McDavid
  - Jess Yao
 
