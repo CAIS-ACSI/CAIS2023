@@ -15,10 +15,10 @@ all_day: false
 publishDate: "2023-01-01T00:00:00Z"
 
 authors:
- - Rebekah Willson 
+ - Rebekah Willson
  - Owen Stewart-Robertson
  - Heidi Julien
- - Lisa M. Given 
+ - Lisa M. Given
 
 featured: false
 
