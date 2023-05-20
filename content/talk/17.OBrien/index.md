@@ -1,23 +1,23 @@
 ---
-title: "Back to the Future: Yesterday’s Lessons and Tomorrow’s Priorities in Library and Information Science Research"
-event: CAIS2022
+title: "Reimagining Library and Information Science Evaluation Frameworks for Relational Knowledge-Exchange Work"
+event: CAIS2023
 event_url: 
 
-location: "[https://zoom.us/j/88016818664](https://us06web.zoom.us/j/88016818664?wd=bWlEMk1oZ3FyWTVFNXZISUh4dlZJdz09)"
+location: "Online, Zoom Link TBD"
 
-abstract: "OPENING PLENARY PANEL with Julia Bullard, Lynne Howarth & Ali Shiri. Back to the Future: Yesterday’s Lessons and Tomorrow’s Priorities in Library and Information Science Research. Moderator: Grant Campbell"
+abstract: "We share preliminary findings from an interview study with 24 Library and Information Studies (LIS) professionals engaged in knowledge exchange (KE) work. Specifically, we examine the challenge of evaluating relational work and the disconnect between existing LIS evaluation frameworks and practices with respect to demonstrating social value. We speculate on the contribution of KE discourse and impact models to LIS assessment and evaluation."
 
-date: "2022-06-07T13:15:00Z"
-date_end: "2022-06-07T14:45:00Z"
+date: "2023-06-07T17:00:00Z"
+date_end: "2023-06-07T17:30:00Z"
 
 all_day: false
 
-publishDate: "2022-01-01T00:00:00Z"
+publishDate: "2023-01-01T00:00:00Z"
 
 authors:
- - Julia Bullard
- - Lynne Howarth
- - Ali Shir
+ - Heather O'Brien 
+ - Kristina McDavid
+ - Jess Yao
 
 featured: false
 
@@ -26,4 +26,3 @@ links:
 math: true
 ---
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/D2PhwsksOjU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

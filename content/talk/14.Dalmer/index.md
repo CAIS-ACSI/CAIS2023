@@ -1,23 +1,26 @@
 ---
-title: "Back to the Future: Yesterday’s Lessons and Tomorrow’s Priorities in Library and Information Science Research"
-event: CAIS2022
+title: "“Reimagining “palaces for the people”: A critical review of public libraries’ engagement with the asocial society"
+event: CAIS2023
 event_url: 
 
-location: "[https://zoom.us/j/88016818664](https://us06web.zoom.us/j/88016818664?wd=bWlEMk1oZ3FyWTVFNXZISUh4dlZJdz09)"
+location: "Online, Zoom Link TBD"
 
-abstract: "OPENING PLENARY PANEL with Julia Bullard, Lynne Howarth & Ali Shiri. Back to the Future: Yesterday’s Lessons and Tomorrow’s Priorities in Library and Information Science Research. Moderator: Grant Campbell"
+abstract: "Findings are presented from a state-of-art literature review focussed on recent English-language, peer-reviewed studies (n=235) of public library programming, services, technology and policies in the context of trends in the contemporary asocial society. Across published research, public libraries fostered connection through the following means: encouraging feelings of belonging, creating connections through technology, reinforcing cultural identities, creating safe physical spaces, addressing issues of accessibility, creating new educational programming, and creating new recreational/social programming. The findings allow for a reimagining of the roles of public libraries but not without a reckoning about workplace culture and workloads of library staff."
 
-date: "2022-06-07T13:15:00Z"
-date_end: "2022-06-07T14:45:00Z"
+date: "2023-06-07T16:00:00Z"
+date_end: "2023-06-07T16:30:00Z"
 
 all_day: false
 
-publishDate: "2022-01-01T00:00:00Z"
+publishDate: "2023-01-01T00:00:00Z"
 
 authors:
- - Julia Bullard
- - Lynne Howarth
- - Ali Shir
+ - Nicole Dalmer 
+ - Paulette Rothbauer
+ - Pam McKenzie
+ - Kevin Oswald
+ - Ebenezer Martin-Yeboah
+ - Anne Goulding
 
 featured: false
 
@@ -26,4 +29,3 @@ links:
 math: true
 ---
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/D2PhwsksOjU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

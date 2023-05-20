@@ -1,23 +1,25 @@
 ---
-title: "Back to the Future: Yesterday’s Lessons and Tomorrow’s Priorities in Library and Information Science Research"
-event: CAIS2022
+title: "The value of a diamond: Understanding global coverage of diamond Open Access journals in Web of Science, Scopus, and OpenAlex to support an open future"
+event: CAIS2023
 event_url: 
 
-location: "[https://zoom.us/j/88016818664](https://us06web.zoom.us/j/88016818664?wd=bWlEMk1oZ3FyWTVFNXZISUh4dlZJdz09)"
+location: "Online, Zoom Link TBD"
 
-abstract: "OPENING PLENARY PANEL with Julia Bullard, Lynne Howarth & Ali Shiri. Back to the Future: Yesterday’s Lessons and Tomorrow’s Priorities in Library and Information Science Research. Moderator: Grant Campbell"
+abstract: "Open Data is a concept that is receiving increased attention and support in academic environments, with one justification being that shared data may be reused in further research. But what evidence exists for such reuse, and what is the relationship between the producers of shared datasets and researchers making use of them? This work in progress makes use of dataset citations in the OpenAlex bibliometric database to analyze the relationship between the creators of datasets and authors who cite them, at individual, institutional, and national levels."
 
-date: "2022-06-07T13:15:00Z"
-date_end: "2022-06-07T14:45:00Z"
+date: "2023-06-07T13:30:00Z"
+date_end: "2023-06-07T14:00:00Z"
 
 all_day: false
 
-publishDate: "2022-01-01T00:00:00Z"
+publishDate: "2023-01-01T00:00:00Z"
 
 authors:
- - Julia Bullard
- - Lynne Howarth
- - Ali Shir
+ - Marc-André Simard
+ - Madelaine Hare
+ - Isabel Basson
+ - Vincent Larivière
+ - Philippe Mongeon
 
 featured: false
 
@@ -26,4 +28,3 @@ links:
 math: true
 ---
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/D2PhwsksOjU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

@@ -1,23 +1,25 @@
 ---
-title: "Back to the Future: Yesterday’s Lessons and Tomorrow’s Priorities in Library and Information Science Research"
-event: CAIS2022
+title: "The use of institutional Repository for self-archiving in Canadian Universities"
+event: CAIS2023
 event_url: 
 
-location: "[https://zoom.us/j/88016818664](https://us06web.zoom.us/j/88016818664?wd=bWlEMk1oZ3FyWTVFNXZISUh4dlZJdz09)"
+location: "Online, Zoom Link TBD"
 
-abstract: "OPENING PLENARY PANEL with Julia Bullard, Lynne Howarth & Ali Shiri. Back to the Future: Yesterday’s Lessons and Tomorrow’s Priorities in Library and Information Science Research. Moderator: Grant Campbell"
+abstract: "This study investigates the use of institutional repositories (IR) for self-archiving journal articles in the U15 universities as well as the presence of institutional policies and publisher embargoes. While 45.1% to 56.6% of publications are available in open access (OA), only 0.5% to 10.7% are found in the IRs. We found only three university-wide OA policies, and embargo periods of 12 months or more for 25.6% of journal policies. This suggests that IRs play a minor role in OA practices, and a need for more policies related to self-archiving and the use of IRs specifically."
 
-date: "2022-06-07T13:15:00Z"
-date_end: "2022-06-07T14:45:00Z"
+date: "2023-06-07T14:00:00Z"
+date_end: "2023-06-07T14:30:00Z"
 
 all_day: false
 
-publishDate: "2022-01-01T00:00:00Z"
+publishDate: "2023-01-01T00:00:00Z"
 
 authors:
- - Julia Bullard
- - Lynne Howarth
- - Ali Shir
+ - Poppy Riddle
+ - Marc-André Simard
+ - Pallavi Gone
+ - Vinson Li
+ - Philippe Mongeon
 
 featured: false
 
@@ -26,4 +28,3 @@ links:
 math: true
 ---
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/D2PhwsksOjU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

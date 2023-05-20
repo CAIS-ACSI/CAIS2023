@@ -1,23 +1,22 @@
 ---
-title: "Back to the Future: Yesterday’s Lessons and Tomorrow’s Priorities in Library and Information Science Research"
-event: CAIS2022
+title: "“May be a picture of a dog and a book": The inaccessiblity of public library social media feeds"
+event: CAIS2023
 event_url: 
 
-location: "[https://zoom.us/j/88016818664](https://us06web.zoom.us/j/88016818664?wd=bWlEMk1oZ3FyWTVFNXZISUh4dlZJdz09)"
+location: "Online, Zoom Link TBD"
 
-abstract: "OPENING PLENARY PANEL with Julia Bullard, Lynne Howarth & Ali Shiri. Back to the Future: Yesterday’s Lessons and Tomorrow’s Priorities in Library and Information Science Research. Moderator: Grant Campbell"
+abstract: "Libraries use social media to connect with their communities. This paper outlines research examining the accessibility of those social media feeds within public libraries in Ontario. Of particular focus are the accessibility of social media feeds and their use of alt text to describe visual media. Findings are rather bleak. Only two libraries were found to regularly use alt text. This research outlines three key issues including the enormity of the access issue for people with visual disabilities, the limitations of accessibility legislation, and the limitations of AI generated alt text."
 
-date: "2022-06-07T13:15:00Z"
-date_end: "2022-06-07T14:45:00Z"
+date: "2023-06-07T17:30:00Z"
+date_end: "2023-06-07T18:00:00Z"
 
 all_day: false
 
-publishDate: "2022-01-01T00:00:00Z"
+publishDate: "2023-01-01T00:00:00Z"
 
 authors:
- - Julia Bullard
- - Lynne Howarth
- - Ali Shir
+ - Heather Hill  
+ - Kevin Oswald
 
 featured: false
 
@@ -26,4 +25,3 @@ links:
 math: true
 ---
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/D2PhwsksOjU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
