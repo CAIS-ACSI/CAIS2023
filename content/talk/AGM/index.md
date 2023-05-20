@@ -7,8 +7,8 @@ location: "Online, Zoom Link TBD"
 
 abstract: "All attendees are welcome to join this meeting"
 
-date: "2023-06-09T11:00:00Z"
-date_end: "2023-06-09T13:00:00Z"
+date: "2023-06-09T14:00:00Z"
+date_end: "2023-06-09T16:00:00Z"
 
 all_day: false
 
