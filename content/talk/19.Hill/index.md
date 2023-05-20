@@ -1,5 +1,5 @@
 ---
-title: "“May be a picture of a dog and a book“: The inaccessiblity of public library social media feeds"
+title: "“May be a picture of a dog and a book”: The inaccessiblity of public library social media feeds"
 event: CAIS2023
 event_url: 
 
