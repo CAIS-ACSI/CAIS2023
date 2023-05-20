@@ -97,7 +97,7 @@ For the 51st annual conference of the Canadian Association for Information Scien
   <td rowspan=2>Library Labour</td>
     <td>1:00pm - 1:30pm</td>
     <td><strong><a href="https://www.cais2023.ca/talk/05.Oliphant/">Epistemic Injustice In Library Work: A Case Study Of Patron-perpetrated Sexual Harassment</a></strong><br>
-        <i>Tami Oliphant</i>
+        <i>Tami Oliphant, Danielle Allard and Angela Lieu</i>
   </td>
     <td rowspan=2>Open Access</td>
     <td>1:00pm - 1:30pm</td>
@@ -107,8 +107,7 @@ For the 51st annual conference of the Canadian Association for Information Scien
   </tr>
     <tr>  
     <td>1:30pm - 2:00pm</td>
-    <td><strong><a href="https://www.cais2023.ca/talk/07.VanderKooy/">Tagging a movement: An analysis of the additional hashtags used within the #ProtectLibraryWorkers movement</a></strong><br>
-        <i>Sam Vander Kooy</i>
+    <td>
   </td>
     <td>1:30pm - 2:00pm</td>
     <td><strong><a href="https://www.cais2023.ca/talk/08.Simard/">The value of a diamond: Understanding global coverage of diamond Open Access journals in Web of Science, Scopus, and OpenAlex to support an open future</a></strong><br>
