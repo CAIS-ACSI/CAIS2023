@@ -17,7 +17,7 @@ publishDate: "2023-01-01T00:00:00Z"
 authors:
  - Siyao Cheng
  - Lo Lee
- - Melissa Ocepek 
+ - Melissa Ocepek
  - Merin Oleschuk
 
 featured: false
