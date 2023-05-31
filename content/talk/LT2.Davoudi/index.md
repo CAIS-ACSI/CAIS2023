@@ -3,7 +3,7 @@ title: "Digital Afterlives: Imagining Effective Policies and Regulations for Dig
 event: CAIS2023
 event_url: 
 
-location: "Online, Zoom Link TBD"
+location: "[Online, Zoom Link](https://westernuniversity.zoom.us/j/91763770204)"
 
 abstract: "The digital platforms we engage with daily are brimming with the digital traces of the dead. These digital remains – or the photos, videos, and text messages left behind by deceased internet users (Lingel 2013) have given rise to the digital death industry – an umbrella term for platforms that offer services such as online memorialisations, virtual funerals and graves, and interactions with avatars of the deceased through chatbots and virtual reality (Öhman and Floridi 2017). Mourners turn to these digital infrastructures to express their grief, memorialise loved ones, and to experience the continued presence of the deceased through their digital remains (Kasket 2020).
 </br>

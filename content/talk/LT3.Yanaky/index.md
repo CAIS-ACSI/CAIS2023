@@ -3,7 +3,7 @@ title: "Using immersive planning tools to reimagine virtual libraries"
 event: CAIS2023
 event_url: 
 
-location: "Online, Zoom Link TBD"
+location: "[Online, Zoom Link](https://westernuniversity.zoom.us/j/91763770204)"
 
 abstract: "Immersive technologies (e.g., Virtual Reality) can both reproduce existing spaces or help bring imagination to life. When considered in relation to the needs of the users, these technologies can facilitate rewarding experiences that encourage repeated usage. However, poorly motivated experiences may result in expensive mistakes. One rewarding experience has been through the creation of immersive sound planning tools to help Professionals of the Built Environment (e.g. urban planners and designers) consider sound in their work (Yanaky et al., 2023).
 </br>

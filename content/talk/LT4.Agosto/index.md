@@ -3,7 +3,7 @@ title: "Matrixes for Data Collection in Information Research: Issues Related to 
 event: CAIS2023
 event_url: 
 
-location: "Online, Zoom Link TBD"
+location: "[Online, Zoom Link](https://westernuniversity.zoom.us/j/91763770204)"
 
 abstract: "The goal of this lightning talk is to foster discussion about the effective analysis and reporting of data collected via interview-based matrixes. Data matrixes are a common qualitative data analysis tool. They are less common at the data collection stage. For this study of the information sharing practices of Brazilian undergraduate students, participants completed a written data matrix in conjunction with semi-structured interviews. The researchers will describe the project and engage audience members in discussing the merits of using matrixes for data collection, ideas for effective data reduction and display, and issues relating to reporting data and findings in translation."
 

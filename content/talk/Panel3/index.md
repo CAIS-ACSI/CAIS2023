@@ -3,7 +3,7 @@ title: "Reimagining LIS Education: Everything We Wanted to Say but Were Afraid T
 event: CAIS2023
 event_url: 
 
-location: "Online, Zoom Link TBD"
+location: "[Online, Zoom Link](https://westernuniversity.zoom.us/j/91763770204)"
 
 abstract: "This panel includes six library and information science (LIS) academics who bring together international perspectives on pedagogy rooted in theoretical framings. The panellists will discuss topics meaningful to the instructor experience including social justice, teaching empathy in the LIS classroom, faculty/student research collaboration, student socialization to the graduate academy, and inclusion of faculty members with a disability."
 

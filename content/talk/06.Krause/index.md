@@ -3,7 +3,7 @@ title: "Measuring Data Reuse in OpenAlex by Researchers, Institutions, and Count
 event: CAIS2023
 event_url: 
 
-location: "Online, Zoom Link TBD"
+location: "[Online, Zoom Link](https://westernuniversity.zoom.us/j/93231662627)"
 
 abstract: "Open Data is a concept that is receiving increased attention and support in academic environments, with one justification being that shared data may be reused in further research. But what evidence exists for such reuse, and what is the relationship between the producers of shared datasets and researchers making use of them? This work in progress makes use of dataset citations in the OpenAlex bibliometric database to analyze the relationship between the creators of datasets and authors who cite them, at individual, institutional, and national levels."
 

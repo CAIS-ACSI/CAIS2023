@@ -3,7 +3,7 @@ title: "“Reimagining “palaces for the people”: A critical review of public
 event: CAIS2023
 event_url: 
 
-location: "Online, Zoom Link TBD"
+location: "[Online, Zoom Link](https://westernuniversity.zoom.us/j/93231662627)"
 
 abstract: "Findings are presented from a state-of-art literature review focussed on recent English-language, peer-reviewed studies (n=235) of public library programming, services, technology and policies in the context of trends in the contemporary asocial society. Across published research, public libraries fostered connection through the following means: encouraging feelings of belonging, creating connections through technology, reinforcing cultural identities, creating safe physical spaces, addressing issues of accessibility, creating new educational programming, and creating new recreational/social programming. The findings allow for a reimagining of the roles of public libraries but not without a reckoning about workplace culture and workloads of library staff."
 

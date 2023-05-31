@@ -3,7 +3,7 @@ title: "(Re)Imagined Black Informational Past: Chicago’s New Negro Intercolleg
 event: CAIS2023
 event_url: 
 
-location: "Online, Zoom Link TBD"
+location: "[Online, Zoom Link](https://westernuniversity.zoom.us/j/91763770204)"
 
 abstract: "In 1927, the collective of Black students known as the Washington Intercollegiate Club of Chicago went out into their community to collect data about the various components of the Black experience. This research turned into the two editions of the Intercollegian Wonder Book. The Wonder Books present a Black past that notes a time of youth envisioning their community through the lens of the New Negro Movement, galvanizing to uplift and promote a new Black present in Chicago. Our project tracks the impact of the Wonder Books by examining how they have been referenced in research and journalism since their publication."
 

@@ -3,7 +3,7 @@ title: "Welcome to Information Science"
 event: CAIS2023
 event_url: 
 
-location: "Online, Zoom Link TBD"
+location: "[Online, Zoom Link](https://westernuniversity.zoom.us/j/91763770204)"
 
 abstract: "Inspired by CAIS’ conference theme of “Imagining Information,” the participants of this panel will enact the following scenario: At an orientation event for an information science program, a spokesperson gives incoming students a brief address on the theme, “Welcome to information science.” Six imaginative versions of that talk are offered here. Each disquisition is inspired by a luminary or paradigm, namely: S. R. Ranganathan, Elfreda Chatman, Marcia Bates, Chinese Information Science, Indigenous Ways of Knowing, and Queering Sociotechnical Systems. Everyone in attendance will have six opportunities to imagine information science at its best, that is, a wide-ranging and multi-perspective discipline."
 

@@ -3,7 +3,7 @@ title: "Designing the Presentation of Hyperlinks to Reduce Overload in Online He
 event: CAIS2023
 event_url: 
 
-location: "Online, Zoom Link TBD"
+location: "[Online, Zoom Link](https://westernuniversity.zoom.us/j/91763770204)"
 
 abstract: "This talk will present the results of a completed crowdsourced study with 82 participants. The study was guided by the question: how does the visual saliency of hyperlinks on a health information web page influence perceived information overload, emotional reactions, and task performance? Results indicate that different modes of presenting a high volume of hyperlinks can influence the experience of information overload."
 

@@ -3,7 +3,7 @@ title: "Reimagining Library and Information Science Evaluation Frameworks for Re
 event: CAIS2023
 event_url: 
 
-location: "Online, Zoom Link TBD"
+location: "[Online, Zoom Link](https://westernuniversity.zoom.us/j/91763770204)"
 
 abstract: "We share preliminary findings from an interview study with 24 Library and Information Studies (LIS) professionals engaged in knowledge exchange (KE) work. Specifically, we examine the challenge of evaluating relational work and the disconnect between existing LIS evaluation frameworks and practices with respect to demonstrating social value. We speculate on the contribution of KE discourse and impact models to LIS assessment and evaluation."
 

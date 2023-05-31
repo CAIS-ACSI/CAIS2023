@@ -3,7 +3,7 @@ title: "Student Research Forum"
 event: CAIS2023
 event_url: 
 
-location: "Online, Zoom Link TBD"
+location: "[Online, Zoom Link](https://westernuniversity.zoom.us/j/91763770204)"
 
 abstract: "Student Research Forum"
 

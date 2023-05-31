@@ -3,7 +3,7 @@ title: "Imagining A Fuller Potential For Plain Language Summaries: A Case Study 
 event: CAIS2023
 event_url: 
 
-location: "Online, Zoom Link TBD"
+location: "[Online, Zoom Link](https://westernuniversity.zoom.us/j/91763770204)"
 
 abstract: "Researchers are increasingly encouraged to produce plain language summaries, but are they doing so? If so, how well are these summaries meeting expectations for readability? To learn more about the use of plain language summaries in scholarly communication in Canada, we conducted a case study of Canadian Science Publishing (CSP), which publishes 23 journals across a range of scientific domains. The case study reveals that while the number of authors who generate plain language summaries of their research has increased steadily since CSP introduced this option in 2016, the percentage is still relatively low. In addition, the plain language summaries that are produced show similar readability scores to the scientific abstracts. We conclude by offering a number of recommendations that CSP could implement to increase the number and readability of plain language summaries."
 

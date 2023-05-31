@@ -3,7 +3,7 @@ title: "Cross Media Reader Advisory"
 event: CAIS2023
 event_url: 
 
-location: "Online, Zoom Link TBD"
+location: "[Online, Zoom Link](https://westernuniversity.zoom.us/j/91763770204)"
 
 abstract: "This proposal has twofold foci: a survey of current media discovery websites (MDWs) and a literature review of cross-media appeals. The MDW survey analyzes the appeals and frameworks of 118 MDWs catered to multiple media types (books, movies, music, and video games) while the cross-media appeals were researched through contemporary academic literature (such as Lee et al. 2017, Williamson 2011, and Wyatt 2020). By identifying frameworks of appeal that both exist across media types and are uniquely significant to specific forms of media, (e.g., the appeal of interactivity for video games or danceability for music), connections are created across different media that could not only aid in introducing reluctant readers to books based on what they enjoy in other media but broaden the horizons of all media users.
 </br>

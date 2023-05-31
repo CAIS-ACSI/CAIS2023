@@ -3,7 +3,7 @@ title: "The Erasure Of Women From The History Of Western Political Theory Via Sy
 event: CAIS2023
 event_url: 
 
-location: "Online, Zoom Link TBD"
+location: "[Online, Zoom Link](https://westernuniversity.zoom.us/j/91763770204)"
 
 abstract: "This paper presents my analysis of undergraduate political theory syllabi offered at a mid-size Canadian University from 2010 to 2020, which demonstrates the absence of women from undergraduate political theory education. I consider this absence through P.H. Collin’s (2000) ‘matrix of domination’ and S. Ahmed’s (2014; 2019) ‘citational relationality’. From this perspective, absence is the result of erasing women’s contributions to political discourse through syllabi construction and library classification. This perspective reveals how, in some cases, we classify texts based on patriarchal presumptions rather than current use. This work contributes to scholarship on canonization, theories of use, and critical library practice."
 
