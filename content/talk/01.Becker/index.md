@@ -1,7 +1,7 @@
 ---
 title: "Critical friendships, technology myths, and the design of just sustainability"
 event: CAIS2023
-event_url: 
+event_url: https://westernuniversity.zoom.us/j/91763770204
 
 location: "Online, Zoom Link TBD"
 
