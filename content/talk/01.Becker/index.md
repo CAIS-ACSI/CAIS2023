@@ -3,7 +3,7 @@ title: "Critical friendships, technology myths, and the design of just sustainab
 event: CAIS2023
 event_url: https://westernuniversity.zoom.us/j/91763770204
 
-location: "Online, Zoom Link TBD"
+location: "[Online, Zoom Link](https://westernuniversity.zoom.us/j/91763770204)"
 
 abstract: "The deep entanglement of information technology with our societies has raised hopes for a transition to more sustainable and just communities—communities that phase out fossil fuels, distribute public goods fairly, and support free access to information. In principle, information technology should be able to help. But in practice, we live in a world in which opaque algorithms steer us toward misinformation and unsustainable consumerism. </br></br>
  
