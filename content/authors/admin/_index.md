@@ -17,7 +17,12 @@ superuser: false
 
 We meet and structure the world through Imagination. The act of imagining enables inner and outer transformation. It assists in the construction of ourselves, our societies, and even our reality, it helps us to envision and to realize what is possible but it also limits. Collective imagining figures into forming hopes and strategies for the future, but also constructs the past. Imagination can be speculative, but imagination coupled with action can also be resistant and a powerful method toward moving toward liberation. Imagination has a strong connection to imagining, whether imagining new theoretical pathways, reflecting on the past, constructing or utilizing imagining as methodology. Imagination, while sometimes devalued, is a creative and resourceful force.
 
-For the 51st annual conference of the Canadian Association for Information Science, we invite attendees to consider imagining in its many senses and forms, from imagining potential futures for the field and our society, to the nature and function of imagination in information experiences and phenomena,
+For the 51st annual conference of the Canadian Association for Information Science, we invite attendees to consider imagining in its many senses and forms, from imagining potential futures for the field and our society, to the nature and function of imagination in information experiences and phenomena.
+
+Zoom links: 
+
+* Day 1, 2 (Track 1), 3, and 4: https://westernuniversity.zoom.us/j/91763770204
+* Day 2, Track 2: https://westernuniversity.zoom.us/j/93231662627
 
 # Program
 
