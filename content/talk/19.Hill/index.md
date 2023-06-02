@@ -3,7 +3,7 @@ title: "“May be a picture of a dog and a book”: The inaccessiblity of public
 event: CAIS2023
 event_url: 
 
-location: "[Online, Zoom Link](https://westernuniversity.zoom.us/j/93231662627)"
+location: "[Online, Zoom Link](https://mcgill.zoom.us/j/87186647549)"
 
 abstract: "Libraries use social media to connect with their communities. This paper outlines research examining the accessibility of those social media feeds within public libraries in Ontario. Of particular focus are the accessibility of social media feeds and their use of alt text to describe visual media. Findings are rather bleak. Only two libraries were found to regularly use alt text. This research outlines three key issues including the enormity of the access issue for people with visual disabilities, the limitations of accessibility legislation, and the limitations of AI generated alt text."
 
