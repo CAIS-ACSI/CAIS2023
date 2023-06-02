@@ -1,5 +1,5 @@
 ---
-title: "Climate Action"
+title: "Climate Action @ the Library: Supporting Sense Making & Meaning Making in the Midst of Uncertainty and Difference"
 event: CAIS2023
 event_url: 
 
