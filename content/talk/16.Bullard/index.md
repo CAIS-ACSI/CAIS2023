@@ -3,7 +3,7 @@ title: "Community, context, and communication: Responses of Canadian libraries t
 event: CAIS2023
 event_url: 
 
-location: "[Online, Zoom Link](https://westernuniversity.zoom.us/j/93231662627)"
+location: "[Online, Zoom Link](https://mcgill.zoom.us/j/87186647549)"
 
 abstract: "Canadian libraries have traditionally supported and defended intellectual freedom while also being expected to provide communities with trustworthy information in times of personal and collective crisis. Issues of medical misinformation reveal the tension between these two ideals. Library workers face challenges in preparing for and responding to issues with controversial materials, with little guidance on how to navigate this tension and balance the two ideals. In an interview study with 22 Canadian library worker participants, we asked about experiences with navigating these situations. Our preliminary results reveal a range of strategies and considerations at play, ranging from individual incidents to broader policies and power dynamics."
 
