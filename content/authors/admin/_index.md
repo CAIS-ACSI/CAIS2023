@@ -90,7 +90,7 @@ Zoom links:
     </td>
   <td>Panel Session 2</td>
     <td>11:00am - 12:30am</td>
-    <td><strong><a href="https://www.cais2023.ca/talk/Panel2/">Climate Action</a></strong></br>
+    <td><strong><a href="https://www.cais2023.ca/talk/Panel2/">Climate Action @ the Library: Supporting Sense Making & Meaning Making in the Midst of Uncertainty and Difference</a></strong></br>
     <i>Luanne Sinnamon, Lisa Nathan, Saguna Shankar, Mckelle Hansen and Diana Marshall</i>
     </td>
   </tr>
