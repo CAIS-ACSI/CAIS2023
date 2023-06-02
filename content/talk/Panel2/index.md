@@ -3,7 +3,7 @@ title: "Climate Action @ the Library: Supporting Sense Making & Meaning Making i
 event: CAIS2023
 event_url: 
 
-location: "[Online, Zoom Link]( https://mcgill.zoom.us/j/87186647549)"
+location: "[Online, Zoom Link](https://mcgill.zoom.us/j/87186647549)"
 
 abstract: "Library systems and associations across Canada are initiating climate-oriented programming, services, and advocacy at an astonishing pace. Yet, much of the work is undertaken without the time and resources needed to investigate the influence of these efforts. What do we hope these climate-oriented initiatives are doing? What implicit theories of social change are driving these activities? This panel will create space to deliberate challenges and envision possibilities for libraries navigating roles and responsibilities in response to the ongoing climate crisis. Panelists will reflect on preliminary findings from an interview study with librarians from across British Columbia, and their own experiences with climate action, and open a discussion on future research."
 
