@@ -247,19 +247,19 @@ Zoom links:
 
   <tr>
     <td colspan=2 rowspan=3>Imagining and Social Justice</td>
-    <td colspan=2>12:30am - 1:00pm</td>
+    <td colspan=2>12:30pm - 1:00pm</td>
     <td colspan=2><strong><a href="https://www.cais2023.ca/talk/20.AllisonCassin/">The Respectful Terminologies Platform Project and Envisioning Indigenous Governance</a></strong><br>
         <i>Stacy Allison-Cassin and Camille Callison</i>
   </tr>
     
   <tr>
-    <td colspan=2>1:00am - 1:30pm</td>
+    <td colspan=2>1:00pm - 1:30pm</td>
     <td colspan=2><strong><a href="https://www.cais2023.ca/talk/21.Gray/">(Re)Imagined Black Informational Past: Chicago’s New Negro Intercollegiate Club and the Wonder Books, 1927 & 1929</a></strong><br>
         <i>Laverne Gray and Alex Shoshani</i>
   </tr>
   
   <tr>
-    <td colspan=2>1:30am - 2:00pm</td>
+    <td colspan=2>1:30pm - 2:00pm</td>
     <td colspan=2><strong><a href="https://www.cais2023.ca/talk/22.Chabot/">Imagining A Fat Future: Physical And Figurative Fitting In Libraries</a></strong><br>
         <i>Roger Chabot and Heather Hill</i>
   </tr>
