@@ -24,6 +24,8 @@ Zoom links:
 * Day 1, 2 (Track 1), 3, and 4: https://westernuniversity.zoom.us/j/91763770204
 * Day 2, Track 2: https://mcgill.zoom.us/j/87186647549
 
+<center>Download PDF version of the program <a href="CAIS-ACSI 2023 Programme.pdf">here</a>.</center>
+
 # Program
 
 <table style="width:100%">
