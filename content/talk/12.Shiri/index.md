@@ -3,7 +3,7 @@ title: "Imagining Future Human-centred AI: From Idea to Action"
 event: CAIS2023
 event_url: 
 
-location: "[Online, Zoom Link](https://westernuniversity.zoom.us/j/93231662627)"
+location: "[Online, Zoom Link](https://mcgill.zoom.us/j/87186647549)"
 
 abstract: "The rapid growth in the development of AI-enabled and intelligent systems and services calls for more serious and urgent attention to human-focused and human-centred principles, methods, and approaches. This paper reports on a study of recent human-centred AI research literature to examine the extent to which the three principles of safety, trustworthiness, and reliability have been addressed in recent AI publications."
 
