@@ -73,6 +73,14 @@ Zoom links:
         <i>Simon van Bellen</i>
     </td>
   </tr>
+  
+  <tr>
+    <td colspan=2>CAIS Awards 2023</td>
+    <td colspan=2>4:30pm-5:00pm</td>
+    <td colspan=2>Master’s Research Award, Emerging Leader Award, Doctoral Dissertation Award, Career Achievement Award
+    </td>
+  </tr>
+  
   <tr>
       <td colspan=6 style="font-size:20px"><strong><font>Day 2 - Wednesday, June 7</font></strong></td>
   </tr>
