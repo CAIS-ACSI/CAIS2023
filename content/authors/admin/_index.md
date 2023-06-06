@@ -109,12 +109,12 @@ Zoom links:
     <td colspan=5>12:30pm - 1:00pm</td>
   </tr>
   <tr>
-  <td rowspan=2>Library Labour</br><i>Moderator: Heather Hill</i><</td>
+  <td rowspan=2>Library Labour</br><i>Moderator: Heather Hill</i></td>
     <td>1:00pm - 1:30pm</td>
     <td><strong><a href="https://www.cais2023.ca/talk/05.Oliphant/">Epistemic Injustice In Library Work: A Case Study Of Patron-perpetrated Sexual Harassment</a></strong><br>
         <i>Tami Oliphant, Danielle Allard and Angela Lieu</i>
   </td>
-    <td rowspan=2>Open Access</br><i>Moderator: Philips Ayeni</i><</td>
+    <td rowspan=2>Open Access</br><i>Moderator: Philips Ayeni</i></td>
     <td>1:00pm - 1:30pm</td>
     <td><strong><a href="https://www.cais2023.ca/talk/06.Krause/">Measuring Data Reuse in OpenAlex by Researchers, Institutions, and Countries</a></strong><br>
         <i>Geoff Krause, Timothy Bowman, Domenic Rosati, Michael Smit and Philippe Mongeon</i>
@@ -135,12 +135,12 @@ Zoom links:
   </tr>
   
   <tr>
-  <td rowspan=2>Scholarly Communications</br><i>Moderator: Roger Chabot</i><</td>
+  <td rowspan=2>Scholarly Communications</br><i>Moderator: Roger Chabot</i></td>
     <td>2:30pm - 3:00pm</td>
     <td><strong><a href="https://www.cais2023.ca/talk/09.Riddle/">The use of institutional Repository for self-archiving in Canadian Universities</a></strong><br>
         <i>Poppy Riddle, Marc-André Simard, Pallavi Gone, Vinson Li and Philippe Mongeon</i>
   </td>
-    <td rowspan=2>Artificial Intelligence</br><i>Moderator: Claudia Bapista</i><</td>
+    <td rowspan=2>Artificial Intelligence</br><i>Moderator: Claudia Bapista</i></td>
     <td>2:30pm - 3:00pm</td>
     <td><strong><a href="https://www.cais2023.ca/talk/10.Ridley/">Protocols Not Platforms: The Case for Human-Centered Explainable AI (HCXAI)</a></strong><br>
         <i>Michael Ridley</i>
@@ -164,12 +164,12 @@ Zoom links:
   
   
   <tr>
-  <td rowspan=4>Information Behaviour</br><i>Moderator: Richard Yanaky</i><</td>
+  <td rowspan=4>Information Behaviour</br><i>Moderator: Richard Yanaky</i></td>
     <td>4:00pm - 4:30pm</td>
     <td><strong><a href="https://www.cais2023.ca/talk/13.Cheng/">“I’m Bored, and I Want Something New!”: Affective Information Acquisition in Everyday Culinary Practices</a></strong><br>
         <i>Siyao Cheng, Lo Lee, Melissa Ocepek and Merin Oleschuk</i>
   </td>
-    <td rowspan=4>Libraries & Society</br><i>Moderator: Philips Ayeni</i><</td>
+    <td rowspan=4>Libraries & Society</br><i>Moderator: Philips Ayeni</i></td>
     <td>4:00pm - 4:30pm</td>
     <td><strong><a href="https://www.cais2023.ca/talk/14.Dalmer/">Reimagining “palaces for the people”: A critical review of public libraries’ engagement with the asocial society</a></strong><br>
         <i>Nicole Dalmer, Paulette Rothbauer, Pam McKenzie, Kevin Oswald, Ebenezer Martin-Yeboah and Anne Goulding</i>
@@ -254,7 +254,7 @@ Zoom links:
 
 
   <tr>
-    <td colspan=2 rowspan=3>Imagining and Social Justice</br><i>Moderator: Mikr Ridley</i><</td>
+    <td colspan=2 rowspan=3>Imagining and Social Justice</br><i>Moderator: Mike Ridley</i></td>
     <td colspan=2>12:30pm - 1:00pm</td>
     <td colspan=2><strong><a href="https://www.cais2023.ca/talk/20.AllisonCassin/">The Respectful Terminologies Platform Project and Envisioning Indigenous Governance</a></strong><br>
         <i>Stacy Allison-Cassin and Camille Callison</i>
@@ -292,7 +292,7 @@ Zoom links:
   </tr>
 
   <tr>
-    <td colspan=2 rowspan=2>LIS Education</br><i>Moderator: Stacy Allison-Cassin</i><</td>
+    <td colspan=2 rowspan=2>LIS Education</br><i>Moderator: Stacy Allison-Cassin</i></td>
     <td colspan=2>4:30am - 5:00pm</td>
     <td colspan=2><strong><a href="https://www.cais2023.ca/talk/23.Rathi/">Doctoral Degree Programs and Soft Skills: Reflections by Faculty Members</a></strong><br>
         <i>Dinesh Rathi, Jennifer Branch-Mueller and Crystal Stang</i>
