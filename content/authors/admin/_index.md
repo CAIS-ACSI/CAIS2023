@@ -54,7 +54,7 @@ Zoom links:
   </tr>
   <tr>
     <td colspan=2>Award - Best Paper</td>
-    <td colspan=2>3:00pm - 4:00pm</td>
+    <td colspan=2>3:00pm - 3:30pm</td>
     <td colspan=2><strong><a href="https://www.cais2023.ca/talk/02.Rathi/">Use of Hashtags by Two Canadian Public Libraries: A Comparative Review</a></strong><br>
         <i>Dinesh Rathi</i>
     </td>
