@@ -5,7 +5,9 @@ event_url:
 
 location: "[Online, Zoom Link](https://westernuniversity.zoom.us/j/91763770204)"
 
-abstract: "All attendees are welcome to join this meeting"
+abstract: "All attendees are welcome to join this meeting</br></br>
+
+Access AGM materials: [Here](https://drive.google.com/drive/folders/1cBi8qTvcot4L4dq6ZfzU2St_hodOxPfr)"
 
 date: "2023-06-09T14:00:00Z"
 date_end: "2023-06-09T16:00:00Z"
