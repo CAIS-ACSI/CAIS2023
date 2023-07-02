@@ -19,10 +19,9 @@ We meet and structure the world through Imagination. The act of imagining enable
 
 For the 51st annual conference of the Canadian Association for Information Science, we invite attendees to consider imagining in its many senses and forms, from imagining potential futures for the field and our society, to the nature and function of imagination in information experiences and phenomena.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pYcP9rxWzQM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLHgr5ZnpF46vHgJol07M8kpY6SomKu2ny" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-
-<center>Download PDF version of the program <a href="CAIS-ACSI 2023 Programme.pdf">here</a>.</center>
+Download PDF version of the program <a href="CAIS-ACSI 2023 Programme.pdf">here</a>.
 
 # Program
 
