@@ -12,8 +12,6 @@ I show that the conversation about designing for sustainability and justice in I
  
 I will go on to suggest that the field of information can help overcome these barriers because it can be a place to nurture critical friendships: encounters between fields with very different origins and commitments, such as feminist science and technology studies and computer science. These encounters with others on the grounds of information can help those who design overcome the grip of technological myths and forge new paths for information, technology, and design."
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hWEOc2njzY4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
 date: "2023-06-06T13:15:00Z"
 date_end: "2022-06-06T14:45:00Z"
 
@@ -32,4 +30,6 @@ math: true
 ---
 
 Christoph Becker is a Professor at the Faculty of Information and the School of the Environment at the University of Toronto and directs the Digital Curation Institute. With a background in computer science and informatics, his research today focuses on enacting meaningful change in computing to meet the urgent need for sustainability and social justice (converging in just sustainability) through (1) critical examination of the politics, values, and cognitive processes of design, (2) development of methods and tools for just sustainability design, and (3) design projects to bring forth just sustainabilities in urban contexts. His book Insolvent: How to Reorient Computing for Just Sustainability launches at MIT Press on June 6, 2023 (https://mitpress.mit.edu/books/insolvent). Find out more https://christoph-becker.info/ or follow him on mastodon: https://hci.social/@cbecker
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hWEOc2njzY4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
